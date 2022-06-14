@@ -1,0 +1,3 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{Journal}{2}{section*.2}%
+\contentsline {subsection}{}{2}{section*.3}%
