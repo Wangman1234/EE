@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber main"] 1655185572 "main.bcf" "main.bbl" "main" 1655186599
+["biber main"] 1655185572 "main.bcf" "main.bbl" "main" 1655188637
   "Bibliography.bib" 1655185570 2395 ab77471d9a29927d0683f8c64269da06 ""
-  "main.bcf" 1655186598 157393 5b8aeb844347111db7627b90c10b4d9c "xelatex"
+  "main.bcf" 1655188637 157393 5b8aeb844347111db7627b90c10b4d9c "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
-["xdvipdfmx"] 1655186598 "main.xdv" "main.pdf" "main" 1655186599
-  "main.xdv" 1655186598 3072 7d7c8736446eac043d57ccc1f81ba8b7 "xelatex"
+["xdvipdfmx"] 1655188637 "main.xdv" "main.pdf" "main" 1655188637
+  "main.xdv" 1655188637 3072 bcbe79271754e7f761c6d7a4c030c9c1 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1655186595 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655186599
+["xelatex"] 1655188634 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655188637
   "C:/Users/jason/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1655074505 23682234 7201a5b10d07c917fcee442b7394039d ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136801054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr7t.tfm" 1136801054 2124 2601a75482e9426d33db523edf23570a ""
@@ -82,7 +82,12 @@
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/footmisc/footmisc.sty" 1646822068 21361 67512b0642debcd4503e59fcbbb767f1 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578057145 1104 7ac475a4e3466b0b43e138e9356bda83 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578057145 42759 9cf6c5257b1bc7af01a58859749dd37a ""
+  "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
+  "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/xetex.def" 1650125834 14373 b9e5d087883e127dd51fa6e9fdfce569 ""
+  "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty" 1639596610 18399 7e40f80366dffb22c0e7b70517db5cb4 ""
+  "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty" 1639596610 7996 a8fb260d598dcaf305a7ae7b9c3e3229 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1639596611 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
+  "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1639596611 4009 187ea2dc3194cd5a76cd99a8d7a6c4d0 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty" 1580384392 18571 4c28a13fc3d975e6e81c9bea1d697276 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hxetex.def" 1652780580 44164 952853a4b0b31edc7ab7050b8f9090b9 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty" 1652780580 221825 1fd4c05f778f214eb88f73c7ba4145a5 ""
@@ -108,12 +113,12 @@
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1626884962 123 a302f2c651a95033260db60e51527ae8 ""
   "Journal/journal.tex" 1655179403 96 24db1ccd6d9cf6d678a760482bcccb46 ""
-  "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" 1655186595 888 a09bef5dfd956bec194c51f1c1cc503c ""
-  "main.aux" 1655186598 1141 ac767f62b15ff631b603c4250381b1d2 "xelatex"
+  "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" 1655188633 912 3da191d3d7f97d5bdb7b80e9bfc71a13 ""
+  "main.aux" 1655188637 1141 ac767f62b15ff631b603c4250381b1d2 "xelatex"
   "main.bbl" 1655185577 2146 abe0bd77d094cb03a4119b515f472545 "biber main"
-  "main.out" 1655186598 79 4a134a4407098e5c39ad915b3763c3ad "xelatex"
-  "main.run.xml" 1655186598 2390 cf1c862b0021c07da52525a953492630 "xelatex"
-  "main.tex" 1655186595 888 a09bef5dfd956bec194c51f1c1cc503c ""
+  "main.out" 1655188637 79 4a134a4407098e5c39ad915b3763c3ad "xelatex"
+  "main.run.xml" 1655188637 2390 cf1c862b0021c07da52525a953492630 "xelatex"
+  "main.tex" 1655188633 912 3da191d3d7f97d5bdb7b80e9bfc71a13 ""
   (generated)
   "main.aux"
   "main.bcf"
