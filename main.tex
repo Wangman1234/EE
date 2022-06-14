@@ -1,0 +1,51 @@
+\documentclass[12pt]{turabian-researchpaper}
+
+%%page setup%%
+
+\usepackage[]{hyperref}
+\hypersetup{
+    pdftitle={CMOS Template}
+}
+
+\usepackage[american]{babel}            %%chicago reqm
+
+\usepackage[pass, letterpaper]{geometry}
+\usepackage{times}
+
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes, ellipsis}         %%biblatex reqm
+
+%%xelatex font%%
+
+\usepackage[OT1]{fontenc}               %%xelatex reqm
+
+%%bibliography%%
+
+\usepackage[notes, backend=biber]{biblatex-chicago}
+\addbibresource{Bibliography.bib}
+
+%%extra packages%%
+
+\usepackage[]{fancyvrb}
+\newcommand{\comment}[1]{}              %%latex comment
+
+%%title%%
+
+\title{Chicago Manual of Style Citations and References}
+\author{Jason Wang}
+\course{IB Extended Essay}
+\date{\today}
+
+%%document%%
+
+\begin{document}
+\begin{titlepage}
+    \maketitle
+\end{titlepage}
+
+\input{Journal/journal.tex}
+
+\newpage
+\printbibliography
+
+\end{document}

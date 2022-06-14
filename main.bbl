@@ -1,0 +1,65 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{10.2307/24616673}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4764f20c431ca39350000e3e6225df69}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Martin\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Texas Press}%
+      }
+      \strng{namehash}{4764f20c431ca39350000e3e6225df69}
+      \strng{fullhash}{4764f20c431ca39350000e3e6225df69}
+      \strng{bibnamehash}{4764f20c431ca39350000e3e6225df69}
+      \strng{authorbibnamehash}{4764f20c431ca39350000e3e6225df69}
+      \strng{authornamehash}{4764f20c431ca39350000e3e6225df69}
+      \strng{authorfullhash}{4764f20c431ca39350000e3e6225df69}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10434070, 15353605}
+      \field{journaltitle}{Journal of the History of Sexuality}
+      \field{number}{2}
+      \field{title}{Male-Male Sexual Bonding and Male Friendship in Late Imperial China}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{22}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{312\bibrangedash 331}
+      \range{pages}{20}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/24616673
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/24616673
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
