@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.12)  14 JUN 2022 00:37
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.14)  14 JUN 2022 16:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -604,6 +604,12 @@ Package biblatex Info: Reference section=0 on input line 41.
 Package biblatex Info: Reference segment=0 on input line 41.
  [1
 
+] (main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [1
+
 ] (Journal/journal.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 4.
@@ -615,22 +621,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-) [1
-
-] [2] (main.aux)
+) [1] [2] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4A134A4407098E5C39AD915B3763C3AD;79.
+(rerunfilecheck)             Checksum: 3AE0BD1F8F9D910F390826EAF74C80DF;79.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21005 strings out of 410921
- 380151 string characters out of 2822672
- 1445578 words of memory out of 3000000
- 41601 multiletter control sequences out of 15000+600000
+ 21012 strings out of 410921
+ 380216 string characters out of 2822672
+ 1445716 words of memory out of 3000000
+ 41605 multiletter control sequences out of 15000+600000
  475499 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,5n,86p,781b,4589s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.xdv (3 pages, 3072 bytes).
+Output written on main.xdv (4 pages, 3608 bytes).
