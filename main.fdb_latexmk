@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber main"] 1655602796 "main.bcf" "main.bbl" "main" 1655619015
+["biber main"] 1655619080 "main.bcf" "main.bbl" "main" 1655619099
   "Bibliography.bib" 1655599283 2430 13d675d399d19d5b9191348a9c69c4d2 ""
-  "main.bcf" 1655619014 157765 38bd5cdb357eba6fbf42c2529bca1d42 "xelatex"
+  "main.bcf" 1655619098 157765 38bd5cdb357eba6fbf42c2529bca1d42 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
-["xdvipdfmx"] 1655619015 "main.xdv" "main.pdf" "main" 1655619015
-  "main.xdv" 1655619014 11812 47b814885a31f416b3dd3cc2337cdd4f "xelatex"
+["xdvipdfmx"] 1655619099 "main.xdv" "main.pdf" "main" 1655619099
+  "main.xdv" 1655619098 12040 c212fd1c44b21392b46aa08a56d3cc2b "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1655619012 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655619015
+["xelatex"] 1655619096 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655619099
   "C:/Users/jason/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1655193993 23682234 59e57a5b795c59f71701377a57721e99 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136801054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr7t.tfm" 1136801054 2124 2601a75482e9426d33db523edf23570a ""
@@ -113,15 +113,15 @@
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1626884962 123 a302f2c651a95033260db60e51527ae8 ""
   "Journal/journal.tex" 1655618844 437 557a1b4799316df7c16c389759c7d70e ""
-  "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" 1655619007 1177 de160c9989bc75432eee9ff4f3e60cfc ""
-  "main.aux" 1655619014 2434 b043273d92348485fc124fcc0c16f3ed "xelatex"
-  "main.bbl" 1655602799 5157 f36289267d28f126726d5d815ece4d9b "biber main"
-  "main.lof" 1655619014 31 284aed60a42c4792f7d7455bcdbfa41d "xelatex"
-  "main.lot" 1655619014 31 284aed60a42c4792f7d7455bcdbfa41d "xelatex"
-  "main.out" 1655619014 784 47ce8c476f4afd52c2fa756cfeda00c5 "xelatex"
-  "main.run.xml" 1655619014 2390 cf1c862b0021c07da52525a953492630 "xelatex"
-  "main.tex" 1655619007 1177 de160c9989bc75432eee9ff4f3e60cfc ""
-  "main.toc" 1655619014 456 1e93fed870478691332c2b416e1c20f7 "xelatex"
+  "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" 1655619084 1218 80f5c5c6b25bf6b2e6c2ab28a504efab ""
+  "main.aux" 1655619098 2525 08b15a02dd613bf7e7c6e59adadbeeba "xelatex"
+  "main.bbl" 1655619088 5157 f36289267d28f126726d5d815ece4d9b "biber main"
+  "main.lof" 1655619098 31 284aed60a42c4792f7d7455bcdbfa41d "xelatex"
+  "main.lot" 1655619098 31 284aed60a42c4792f7d7455bcdbfa41d "xelatex"
+  "main.out" 1655619098 868 f634335b6a535a1636ce57c0adea3c3d "xelatex"
+  "main.run.xml" 1655619098 2390 cf1c862b0021c07da52525a953492630 "xelatex"
+  "main.tex" 1655619084 1218 80f5c5c6b25bf6b2e6c2ab28a504efab ""
+  "main.toc" 1655619098 506 9b856137dbffc5990cf043e9a54a4527 "xelatex"
   (generated)
   "main.aux"
   "main.bcf"

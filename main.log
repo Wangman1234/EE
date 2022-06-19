@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.14)  19 JUN 2022 00:10
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.14)  19 JUN 2022 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -606,11 +606,11 @@ Package biblatex Info: Reference segment=0 on input line 43.
 
 ] (main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 6.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -636,7 +636,7 @@ Missing character: There is no ñ in font ptmr7t!
 Missing character: There is no ñ in font ptmr7t!
 [2] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 47CE8C476F4AFD52C2FA756CFEDA00C5;784.
+(rerunfilecheck)             Checksum: F634335B6A535A1636CE57C0ADEA3C3D;868.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -644,10 +644,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  21041 strings out of 410921
  380816 string characters out of 2822672
- 1453736 words of memory out of 3000000
+ 1453841 words of memory out of 3000000
  41628 multiletter control sequences out of 15000+600000
  475499 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  76i,5n,86p,781b,5478s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.xdv (6 pages, 11812 bytes).
+Output written on main.xdv (6 pages, 12040 bytes).

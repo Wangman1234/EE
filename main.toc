@@ -1,4 +1,5 @@
 \babel@toc {american}{}\relax 
+\contentsline {section}{Contents}{i}{section*.1}%
 \contentsline {section}{List of Figures}{ii}{section*.2}%
 \contentsline {section}{List of Tables}{iii}{section*.3}%
 \contentsline {section}{Journal}{1}{section*.4}%
