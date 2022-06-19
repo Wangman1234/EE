@@ -1,7 +1,9 @@
 \babel@toc {american}{}\relax 
-\contentsline {section}{Journal}{1}{section*.2}%
-\contentsline {subsection}{Entry 1}{1}{section*.3}%
-\contentsline {subsection}{Entry 2}{1}{section*.4}%
-\contentsline {subsection}{Entry 3}{1}{section*.5}%
-\contentsline {subsection}{Entry 4}{1}{section*.6}%
-\contentsline {subsection}{Entry 5}{1}{section*.7}%
+\contentsline {section}{List of Figures}{ii}{section*.2}%
+\contentsline {section}{List of Tables}{iii}{section*.3}%
+\contentsline {section}{Journal}{1}{section*.4}%
+\contentsline {subsection}{Entry 1}{1}{section*.5}%
+\contentsline {subsection}{Entry 2}{1}{section*.6}%
+\contentsline {subsection}{Entry 3}{1}{section*.7}%
+\contentsline {subsection}{Entry 4}{1}{section*.8}%
+\contentsline {subsection}{Entry 5}{1}{section*.9}%
