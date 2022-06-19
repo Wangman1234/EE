@@ -1,3 +1,7 @@
 \babel@toc {american}{}\relax 
 \contentsline {section}{Journal}{1}{section*.2}%
-\contentsline {subsection}{}{1}{section*.3}%
+\contentsline {subsection}{Entry 1}{1}{section*.3}%
+\contentsline {subsection}{Entry 2}{1}{section*.4}%
+\contentsline {subsection}{Entry 3}{1}{section*.5}%
+\contentsline {subsection}{Entry 4}{1}{section*.6}%
+\contentsline {subsection}{Entry 5}{1}{section*.7}%

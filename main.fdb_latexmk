@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber main"] 1655243573 "main.bcf" "main.bbl" "main" 1655244535
-  "Bibliography.bib" 1655185570 2395 ab77471d9a29927d0683f8c64269da06 ""
-  "main.bcf" 1655244533 157393 5b8aeb844347111db7627b90c10b4d9c "xelatex"
+["biber main"] 1655602796 "main.bcf" "main.bbl" "main" 1655602965
+  "Bibliography.bib" 1655599283 2430 13d675d399d19d5b9191348a9c69c4d2 ""
+  "main.bcf" 1655602964 157765 38bd5cdb357eba6fbf42c2529bca1d42 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
-["xdvipdfmx"] 1655244534 "main.xdv" "main.pdf" "main" 1655244535
-  "main.xdv" 1655244533 3608 1a3895cb592cfcb69378040cc57f053f "xelatex"
+["xdvipdfmx"] 1655602965 "main.xdv" "main.pdf" "main" 1655602965
+  "main.xdv" 1655602964 7328 0eb37dd7e3909ceee798eb3196bc3519 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1655244526 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655244535
+["xelatex"] 1655602961 "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" "main.xdv" "main" 1655602965
   "C:/Users/jason/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1655193993 23682234 59e57a5b795c59f71701377a57721e99 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136801054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr7t.tfm" 1136801054 2124 2601a75482e9426d33db523edf23570a ""
@@ -112,14 +112,14 @@
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/turabian-formatting/turabian-researchpaper.cls" 1616252892 9039 277b6ace3fca49b77a9a16ec2f422465 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jason/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1626884962 123 a302f2c651a95033260db60e51527ae8 ""
-  "Journal/journal.tex" 1655179403 96 24db1ccd6d9cf6d678a760482bcccb46 ""
+  "Journal/journal.tex" 1655602961 418 4aba887723fe217b9b75e4fd23d4e023 ""
   "c:/Users/jason/My Drive/Writings/LaTEX/EE/main.tex" 1655244525 1101 d446537adca2d9fb181fcb8543f35a25 ""
-  "main.aux" 1655244533 1164 2514e6a4d66f939c2ee2839184fa10d4 "xelatex"
-  "main.bbl" 1655243586 2146 abe0bd77d094cb03a4119b515f472545 "biber main"
-  "main.out" 1655244533 79 3ae0bd1f8f9d910f390826eaf74c80df "xelatex"
-  "main.run.xml" 1655244533 2390 cf1c862b0021c07da52525a953492630 "xelatex"
+  "main.aux" 1655602964 2236 a70f4d94842ae3ac37cd7cdee443fc36 "xelatex"
+  "main.bbl" 1655602799 5157 f36289267d28f126726d5d815ece4d9b "biber main"
+  "main.out" 1655602964 79 3ae0bd1f8f9d910f390826eaf74c80df "xelatex"
+  "main.run.xml" 1655602964 2390 cf1c862b0021c07da52525a953492630 "xelatex"
   "main.tex" 1655244525 1101 d446537adca2d9fb181fcb8543f35a25 ""
-  "main.toc" 1655244533 125 13b1254a7f9a5d9a3ef4235cc5d786b8 "xelatex"
+  "main.toc" 1655602964 340 c17abc80df638875cf1ff57529aa3a96 "xelatex"
   (generated)
   "main.aux"
   "main.bcf"
