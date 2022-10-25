@@ -1,0 +1,2 @@
+{"rule":"TH_CENTURY","sentence":"^\\QMost of this essay will be focused on secondary sources, research papers and books that go into views on homosexual activities from China from the imperial era into the 20 century.\\E$"}
+{"rule":"TH_CENTURY","sentence":"^\\QAt the end of the 19 and the start of the 20 century, the\\E$"}

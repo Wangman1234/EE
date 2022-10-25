@@ -3483,6 +3483,32 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="2">1997後殖民同志</bcf:citekey>
+    <bcf:citekey order="3">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="4">10.2307/2961796</bcf:citekey>
+    <bcf:citekey order="5">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="6">huang_2013_malemale</bcf:citekey>
+    <bcf:citekey order="7">huang_2013_malemale</bcf:citekey>
+    <bcf:citekey order="8">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="9">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="10">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="11">xueqin2009dream</bcf:citekey>
+    <bcf:citekey order="12">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="13">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="14">1997後殖民同志</bcf:citekey>
+    <bcf:citekey order="15">1997後殖民同志</bcf:citekey>
+    <bcf:citekey order="16">10.2307/42632420</bcf:citekey>
+    <bcf:citekey order="17">doi:10.1300/J236v07n01_08</bcf:citekey>
+    <bcf:citekey order="18">wang2020mapping</bcf:citekey>
+    <bcf:citekey order="19">hinsch1990passions</bcf:citekey>
+    <bcf:citekey order="20">1997後殖民同志</bcf:citekey>
+    <bcf:citekey order="21">10.2307/2961796</bcf:citekey>
+    <bcf:citekey order="22">huang_2013_malemale</bcf:citekey>
+    <bcf:citekey order="23">xueqin2009dream</bcf:citekey>
+    <bcf:citekey order="24">10.2307/42632420</bcf:citekey>
+    <bcf:citekey order="25">doi:10.1300/J236v07n01_08</bcf:citekey>
+    <bcf:citekey order="26">wang2020mapping</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
